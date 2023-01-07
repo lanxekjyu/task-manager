@@ -8,6 +8,7 @@ Features:
   3. Add a new task by getting user input on task title, task description, task owner, due date, and automatically adds the current date.
   4. View all tasks in 'tasks.txt' in a readable format.
   5. View only the tasks assigned to the current user who is logged in.
+    5.1. Edit a task to mark as complete or to reassign to a different user.
   6. If admin, generate reports detailing completion/overdue rates of tasks per user and overall.
   
 This program shows an understanding of Functions, Lists, Dictionaries, Conditionals, Loops, Error Handling, IO Read/Write, String Handling, Authentication, & User Readability
